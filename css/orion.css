@@ -1,0 +1,15 @@
+#navbar {
+    background-image: url(../img/pattern.png);
+}
+
+.logo {
+    width: 100%;
+    padding: 10px;
+}
+
+.mobile-anchor {
+    color: #fff;
+    font-size: 3.5rem;
+    padding: 20px;
+    float: right;
+}
